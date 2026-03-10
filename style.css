@@ -1,0 +1,73 @@
+#floppy_disk{
+    text-align: center;
+}
+.back{
+    border: 3px solid white;
+    margin: 25px;
+    padding: 15px;
+    background-color: black;
+}
+#plane{
+    height: auto;
+    max-width: 200px;
+    min-width: 10px;
+}
+br{
+    display: block;
+    background-color: white;
+    size: 4px;
+    margin: 2px 2px;
+}
+.song-list{
+    text-align: left;
+    padding: 0 10%;
+}
+body{
+    text-align: center;
+    background-image:url('https://www.spriters-resource.com/media/asset_icons/172/175637.gif');
+    background-repeat: repeat;
+    background-size: 300px;
+    background-color: black;
+}
+.main_div{
+    color: white;
+    background-color: black;
+    margin: 35px 25%;
+    border: 6px white solid;
+    border-radius: 1%;
+}
+h2{
+    padding: 0;
+    margin: 5px 0;
+}
+ul{
+    text-align: left;
+    list-style-position: inside;
+    padding: 0px 15%;
+}
+li{
+    padding: 4px 0;
+}
+a:hover{
+    color: red;
+    text-decoration: underline dotted;
+}
+a:active{
+    color:blue;
+}
+a{
+    text-decoration: none;
+}
+
+#anaya_surprise{
+    height: auto;
+    width: 30%;
+}
+.end_image{
+    display: flex;
+    justify-content: flex-end;
+}
+.yt_player{
+    height: 250px;
+    width: 250px;
+}
